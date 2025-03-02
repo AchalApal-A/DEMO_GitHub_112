@@ -1,0 +1,5 @@
+#Forking a repository means creating a copy of someone else’s GitHub repository in your own GitHub account. 
+This lets you:
+    Work on the project independently.
+    Make changes without affecting the original repository.
+    Contribute back by creating a Pull Request (PR).
